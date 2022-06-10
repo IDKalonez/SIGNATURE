@@ -1,0 +1,23 @@
+C:\Users\Даниил\source\repos\Signature\Signature\bin\Debug\Signature.exe.config
+C:\Users\Даниил\source\repos\Signature\Signature\bin\Debug\Signature.exe
+C:\Users\Даниил\source\repos\Signature\Signature\bin\Debug\Signature.pdb
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.Properties.Resources.resources
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.exe
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.pdb
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.FormMain.resources
+C:\Users\Даниил\source\repos\Signature\Signature\obj\Debug\Signature.FormCreateInitials.resources
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\bin\Debug\Signature.exe.config
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\bin\Debug\Signature.exe
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\bin\Debug\Signature.pdb
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\obj\Debug\Signature.csprojAssemblyReference.cache
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\obj\Debug\Signature.FormCreateInitials.resources
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\obj\Debug\Signature.FormMain.resources
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\obj\Debug\Signature.Properties.Resources.resources
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\obj\Debug\Signature.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\obj\Debug\Signature.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\obj\Debug\Signature.exe
+C:\Users\artur\OneDrive\Рабочий стол\Signature\Signature\obj\Debug\Signature.pdb
